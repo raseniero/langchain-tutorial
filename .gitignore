@@ -221,3 +221,5 @@ $RECYCLE.BIN/
 module-6/deployment/docker-compose.yml
 
 .langgraph_api/
+
+.vscode/
